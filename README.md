@@ -1,4 +1,4 @@
-# IdentityServer4test
+# This project is mainly to study identity with asp.net core mvc 
 
 ## App.Doc.Repository project
 ``` Add-Migration InitialMigration ``` <br />
